@@ -81,6 +81,9 @@ nav li {
     border-right: white  solid 2px;
    
 }
+nav li:hover {
+    text-decoration: underline;
+}
 nav li:last-child {
     border: none;
 }
