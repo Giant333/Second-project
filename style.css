@@ -131,12 +131,11 @@ article {
 }
 .footer {
     width: 100%;
-    height: 195px;
     margin-bottom: 0;
     margin-top: auto;
     background-color: #777777;
     padding-top: 35px;
-    /* padding-bottom: 50px; */
+    padding-bottom: 35px;
 }
 .footer-main {
     width: 980px;
